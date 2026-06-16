@@ -21,7 +21,7 @@ My work focuses on turning messy public text, online community behavior, market 
 ## Featured Repositories
 
 - **[Online product community launch analytics](https://github.com/daakrofi/online-community-launch-analytics)**: NLP and statistical analysis of public community discourse around product launches.
-- **Movie League**: movie-signal scraping, scoring logic, ranking, and dashboard-style outputs.
+- **[Movie League](https://github.com/daakrofi/The-Movie-League)**: movie-signal scraping, scoring logic, ranking, and dashboard-style outputs.
 - **Box office performance analysis**: entertainment-industry modeling and robustness checks.
 - **AI adoption research intelligence**: evidence-monitoring workflow for AI, platforms, and digital innovation.
 
